@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
-    <a href="https://juejin.cn/user/4230576472589976" target=“_blank”><img src="https://img.shields.io/badge/掘金-社区-blue" /></a>&emsp;
-    <a href="https://blog.csdn.net/qq_24956515/" target=“_blank”><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
+    <a href="https://juejin.cn/user/4230576472589976" target="_blank"><img src="https://img.shields.io/badge/掘金-社区-blue" /></a>&emsp;
+    <a href="https://blog.csdn.net/qq_24956515/" target="_blank"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
     <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=anyup&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
