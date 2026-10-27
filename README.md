@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - 👋 Hi, I'm @anyup
 - 👀 I am interested in `Front-End`, `Mobile Development`, `Database`, `Computer network`, `Internet of Things`, `Artificial Intelligence`, etc.
 - 🌱 I am currently working on IoT, artificial intelligence, open source project development.
-- 📫 How can I be reached? E-mail: anyupxing@163.com
+- 📫 How can I be reached? E-mail: 491302297@qq.com
 
 <!-- ### My Github Actions -->
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=anyup&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=radical)](https://github.com/anyup/github-readme-stats)
